@@ -1,3 +1,3 @@
 echo off
-set url="https://www.youtube.com/watch?v=9enpPs-LP50"
+set url="https://goriec.github.io/djsraka/"
 start iexplore.exe %url%
